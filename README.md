@@ -4,7 +4,7 @@
 
  - I'm Brazilian. :brazil:
  - I'm passionate about technologies. :computer: :desktop_computer:
- - I do projects as a fullstack and mobile developer. :penguin:
+ - I build projects as a fullstack and mobile developer. :penguin:
 
 ## My Skills :clipboard:
 
