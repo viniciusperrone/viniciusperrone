@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/svelte%20-%2320232a.svg?&color=4A4A55&style=for-the-badge&logo=svelte&logoColor=%FF3E00" height="25"/>
+<img src="https://img.shields.io/badge/docker%20-%23007ACC.svg?&style=for-the-badge&logo=docker&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
