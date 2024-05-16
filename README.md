@@ -11,3 +11,11 @@ I'm a Computer technician and a Systems Analysis and Development student at PUCP
   [![Gmail Badge](https://img.shields.io/badge/-perronevinicius2018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:perronevinicius2018@gmail.com)](mailto:perronevinicius2018@gmail.com)
 </div>
 
+<div align="center">
+
+| Github Stats | Top Languages |
+| --- | --- |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusperrone&show_icons=true&title_color=6d5d7e&icon_color=6d5d7e&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusperrone&show_icons=true&title_color=6d5d7e&icon_color=6d5d7e&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+</div>
+
+
