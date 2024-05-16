@@ -5,6 +5,8 @@ I'm a Computer technician and a Systems Analysis and Development student at PUCP
 </p>
 
 <div align="center">
+
+
   [![Linkedin Badge](https://img.shields.io/badge/-viniciusperrone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-perrone/)](https://www.linkedin.com/in/vinicius-perrone/)
   [![Gmail Badge](https://img.shields.io/badge/-perronevinicius2018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:perronevinicius2018@gmail.com)](mailto:perronevinicius2018@gmail.com)
 </div>
